@@ -1,2 +1,2 @@
-# Sells_analyse
+# Seles_analyse
 Data analyse des produits vendu d’un site web e-commerce.
